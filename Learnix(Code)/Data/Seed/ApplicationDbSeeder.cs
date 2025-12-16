@@ -33,8 +33,8 @@ namespace Learnix.Data.Seed
             RoleManager<IdentityRole> roleManager,
             LearnixContext context)
         {
-            string adminEmail = "admin@site.com";
-            string adminPassword = "Admin@123";
+            string adminEmail = "fhcc@999";
+            string adminPassword = "mi998vf5";
 
             var existingAdmin = await userManager.FindByEmailAsync(adminEmail);
 
