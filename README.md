@@ -89,11 +89,11 @@ Layer (EF Core & SQL Server)
 
 ## 👥 Project Team
 
--   Abdelrahman Amr Abdelnaby Melhy -- Instructor Dashboard , Authentication and Authorization , Payment and Enrollement Logic\
--   Mohamed Yaser Salah Elnagar -- Student Dashboard\
--   Ahmed Moustafa Gaber Elbhery -- Admin Dashboard and Courses Page\
--   Mohamed Atef Mohamed Abu-Yousef -- Student Dashboard\
--   Abdelaziz Ahmed Saad Aresha -- Admin Dashboard\
+-   Abdelrahman Amr Abdelnaby Melhy -- Instructor Dashboard , Authentication and Authorization , Payment and Enrollement Logic
+-   Mohamed Yaser Salah Elnagar -- Student Dashboard
+-   Ahmed Moustafa Gaber Elbhery -- Admin Dashboard and Courses Page
+-   Mohamed Atef Mohamed Abu-Yousef -- Student Dashboard
+-   Abdelaziz Ahmed Saad Aresha -- Admin Dashboard
 
 ## 🚀 Getting Started
 
